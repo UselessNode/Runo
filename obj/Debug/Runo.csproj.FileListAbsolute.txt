@@ -1,0 +1,10 @@
+C:\Users\Node\source\Games\Runo\bin\Debug\Runo.exe.config
+C:\Users\Node\source\Games\Runo\bin\Debug\Runo.exe
+C:\Users\Node\source\Games\Runo\bin\Debug\Runo.pdb
+C:\Users\Node\source\Games\Runo\obj\Debug\Runo.csprojAssemblyReference.cache
+C:\Users\Node\source\Games\Runo\obj\Debug\Runo.Form1.resources
+C:\Users\Node\source\Games\Runo\obj\Debug\Runo.Properties.Resources.resources
+C:\Users\Node\source\Games\Runo\obj\Debug\Runo.csproj.GenerateResource.cache
+C:\Users\Node\source\Games\Runo\obj\Debug\Runo.csproj.CoreCompileInputs.cache
+C:\Users\Node\source\Games\Runo\obj\Debug\Runo.exe
+C:\Users\Node\source\Games\Runo\obj\Debug\Runo.pdb
